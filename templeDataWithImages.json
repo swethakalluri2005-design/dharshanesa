@@ -1,0 +1,242 @@
+[
+  {
+    "templeName": "Ram Mandir",
+    "location": "Ayodhya, Uttar Pradesh",
+    "search": "Ram Mandir, Ayodhya",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ayodhya_Ram_Mandir_Inauguration_Day_Picture.jpg/1280px-Ayodhya_Ram_Mandir_Inauguration_Day_Picture.jpg"
+  },
+  {
+    "templeName": "Badrinath Temple",
+    "location": "Chamoli, Uttarakhand",
+    "search": "Badrinath Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Badrinath_Temple_%2C_Uttarakhand.jpg/1280px-Badrinath_Temple_%2C_Uttarakhand.jpg"
+  },
+  {
+    "templeName": "Sun Temple",
+    "location": "Konark, Odisha",
+    "search": "Konark Sun Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Konarka_Temple.jpg/1280px-Konarka_Temple.jpg"
+  },
+  {
+    "templeName": "Brihadeeswara Temple",
+    "location": "Thanjavur, Tamil Nadu",
+    "search": "Brihadisvara Temple, Thanjavur",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Thanjavur_2.jpg/1280px-Thanjavur_2.jpg"
+  },
+  {
+    "templeName": "Somnath Temple",
+    "location": "Somnath Gujarat",
+    "search": "Somnath temple",
+    "image": "/temple-images/Somanath_Temple.jpg"
+  },
+  {
+    "templeName": "Kedarnath Temple",
+    "location": "Rudraprayag, Uttarakhand",
+    "search": "Kedarnath Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kedarnath_Temple_in_Rainy_season.jpg/1280px-Kedarnath_Temple_in_Rainy_season.jpg"
+  },
+  {
+    "templeName": "Sanchi Stupa",
+    "location": "Sanchi, Madhya Pradesh",
+    "search": "Sanchi",
+    "image": "/temple-images/sanchi-stupa-1773071902875.jpg"
+  },
+  {
+    "templeName": "Ramanathaswamy Temple",
+    "location": "Rameshwaram, Tamil Nadu",
+    "search": "Ramanathaswamy Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ramanathaswamy_temple7.JPG/1280px-Ramanathaswamy_temple7.JPG"
+  },
+  {
+    "templeName": "Vaishno Devi Temple",
+    "location": "Katra, Jammu and Kahsmir",
+    "search": "Vaishno Devi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Vaishno_devi.jpg/1280px-Vaishno_devi.jpg"
+  },
+  {
+    "templeName": "Siddhivinayak Temple",
+    "location": "Mumbai, Maharashtra",
+    "search": "Siddhivinayak Temple, Mumbai",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Shree_Siddhivinayak_Temple_Mumbai.jpg/1280px-Shree_Siddhivinayak_Temple_Mumbai.jpg"
+  },
+  {
+    "templeName": "Gangotri Temple",
+    "location": "Uttarkashi, Uttarakhand",
+    "search": "Gangotri",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gangotri_%28ganga_river%29.jpg/1280px-Gangotri_%28ganga_river%29.jpg"
+  },
+  {
+    "templeName": "Golden Temple",
+    "location": "Amritsar, Punjab",
+    "search": "Golden Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Golden_Temple_of_Amrithsar_7.jpg/1280px-The_Golden_Temple_of_Amrithsar_7.jpg"
+  },
+  {
+    "templeName": "Kashi Vishwanath Temple",
+    "location": "Varanasi, Uttar Pradesh",
+    "search": "Kashi Vishwanath Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Kashi_Vishwanath.jpg"
+  },
+  {
+    "templeName": "Shri Jagannath Temple",
+    "location": "Puri, Odisha",
+    "search": "Jagannath Temple, Puri",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Shri_Jagannath_temple.jpg/1280px-Shri_Jagannath_temple.jpg"
+  },
+  {
+    "templeName": "Yamunotri Temple",
+    "location": "Uttarkashi, Uttarakhand",
+    "search": "Yamunotri",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Yamuna_at_Yamunotri.JPG/1280px-Yamuna_at_Yamunotri.JPG"
+  },
+  {
+    "templeName": "Meenakshi Temple",
+    "location": "Madurai, Tamil Nadu",
+    "search": "Meenakshi Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/An_aerial_view_of_Madurai_city_from_atop_of_Meenakshi_Amman_temple.jpg/1280px-An_aerial_view_of_Madurai_city_from_atop_of_Meenakshi_Amman_temple.jpg"
+  },
+  {
+    "templeName": "Amarnath Cave Temple",
+    "location": "Jammu and Kashmir",
+    "search": "Amarnath Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cave_Temple_of_Lord_Amarnath.jpg/1280px-Cave_Temple_of_Lord_Amarnath.jpg"
+  },
+  {
+    "templeName": "Lingaraja Temple",
+    "location": "Bhubaneswar, Odisha",
+    "search": "Lingaraja Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lingaraj_Temple_%2C_Bhubaneswar.jpg/1280px-Lingaraj_Temple_%2C_Bhubaneswar.jpg"
+  },
+  {
+    "templeName": "Tirupati Balaji Temple",
+    "location": "Tirumala, Andhra Pradesh",
+    "search": "Venkateswara Temple, Tirumala",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tirumala_090615.jpg/1280px-Tirumala_090615.jpg"
+  },
+  {
+    "templeName": "Kanchipuram Temples",
+    "location": "Kanchipuram, Tamil Nadu",
+    "search": "Kanchipuram",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Parameswara_Vinnagaram.JPG/1280px-Parameswara_Vinnagaram.JPG"
+  },
+  {
+    "templeName": "Khajuraho Temple",
+    "location": "Khajuraho, Madhya Pradesh",
+    "search": "Khajuraho Group of Monuments",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/1_Khajuraho.jpg/1280px-1_Khajuraho.jpg"
+  },
+  {
+    "templeName": "Virupaksha Temple",
+    "location": "Hampi, Karnataka",
+    "search": "Virupaksha Temple, Hampi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Complex_of_Virupaksha_Temple%2C_Hampi_%2804%29.jpg/1280px-Complex_of_Virupaksha_Temple%2C_Hampi_%2804%29.jpg"
+  },
+  {
+    "templeName": "Akshardham Temple",
+    "location": "Delhi, Delhi",
+    "search": "Swaminarayan Akshardham (Delhi)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Swaminarayan_Akshardham%2C_Delhi.jpg"
+  },
+  {
+    "templeName": "Shri Digambar Jain Lal Mandir",
+    "location": "Delhi, Delhi",
+    "search": "Shri Digambar Jain Lal Mandir",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Sri_Digambar_Jain_Lal_Mandir_%281%29.jpg"
+  },
+  {
+    "templeName": "Mahavir Mandir",
+    "location": "Patna, Bihar",
+    "search": "Mahavir Mandir",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mahavir_Mandir_from_Buddha_Smriti_Park.JPG/1280px-Mahavir_Mandir_from_Buddha_Smriti_Park.JPG"
+  },
+  {
+    "templeName": "Ranakpur Temple",
+    "location": "Pali, Rajasthan",
+    "search": "Ranakpur Jain temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Chaumukha_Jain_temple_at_Ranakpur_in_Aravalli_range_near_Udaipur_Rajasthan_India.jpg"
+  },
+  {
+    "templeName": "Shirdi Sai Baba Temple",
+    "location": "Shirdi, Maharashtra",
+    "search": "Sai Baba of Shirdi",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Shirdi_Sai_Baba_3.jpg"
+  },
+  {
+    "templeName": "Shri Padmanabhaswamy Temple",
+    "location": "Trivendrum, Kerala",
+    "search": "Padmanabhaswamy Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Sree_Padmanabhaswamy_temple_01.jpg/1280px-Sree_Padmanabhaswamy_temple_01.jpg"
+  },
+  {
+    "templeName": "Dwarkadhish Temple",
+    "location": "Dwarka, Gujarat",
+    "search": "Dwarkadhish Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Dwarakadheesh_Temple%2C_2014.jpg"
+  },
+  {
+    "templeName": "Laxminarayan Temple",
+    "location": "Delhi, Delhi",
+    "search": "Laxminarayan Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Laxminarayan_Temple_in_New_Delhi_03-2016.jpg/1280px-Laxminarayan_Temple_in_New_Delhi_03-2016.jpg"
+  },
+  {
+    "templeName": "Iskcon Temple",
+    "location": "Vrindavan, Uttar Pradesh",
+    "search": "Krishna-Balaram Mandir",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Krishna-Balaram-Mandir.JPG"
+  },
+  {
+    "templeName": "Mahabodhi Temple",
+    "location": "Gaya, Bihar",
+    "search": "Mahabodhi Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mahabodhitemple.jpg/1280px-Mahabodhitemple.jpg"
+  },
+  {
+    "templeName": "Kamakhya Temple",
+    "location": "Guwahati, Assam",
+    "search": "Kamakhya Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kamakhya_Temple_-_DEV_8829.jpg/1280px-Kamakhya_Temple_-_DEV_8829.jpg"
+  },
+  {
+    "templeName": "Neelkanth Mahadev Temple",
+    "location": "Rishikesh, Uttarakhand",
+    "search": "Neelkanth Mahadev Temple",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/NeelKanth_Mahadev_Temple.JPG"
+  },
+  {
+    "templeName": "Mukteswara Temple",
+    "location": "Bhubaneswar, Odisha",
+    "search": "Mukteshvara Temple, Bhubaneswar",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Muktesvar_Temple.jpg/1280px-Muktesvar_Temple.jpg"
+  },
+  {
+    "templeName": "Sri Ranganathaswamy Temple",
+    "location": "Srirangam, Tamil Nadu",
+    "search": "Ranganathaswamy Temple, Srirangam",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ranganathaswamy_temple_tiruchirappalli.jpg/1280px-Ranganathaswamy_temple_tiruchirappalli.jpg"
+  },
+  {
+    "templeName": "Khatushyam Baba Temple",
+    "location": "Sikar, Rajasthan",
+    "search": "Khatushyam Temple",
+    "image": "/temple-images/khatushyam-baba-temple-1773071915678.jpg"
+  },
+  {
+    "templeName": "Salasar Balaji Temple",
+    "location": "Churu, Rajasthan",
+    "search": "Salasar Balaji",
+    "image": "/temple-images/salasar-balaji-temple-1773071916644.jpg"
+  },
+  {
+    "templeName": "Dilwara Jain Temple",
+    "location": "Mount Abu, Rajasthan",
+    "search": "Dilwara Temples",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Delwada.jpg"
+  },
+  {
+    "templeName": "Shri Mahakaleshwar Temple",
+    "location": "Ujjain, Madhya Pradesh",
+    "search": "Mahakaleshwar Jyotirlinga",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mahakaleshwar_Temple%2C_Ujjain.jpg/1280px-Mahakaleshwar_Temple%2C_Ujjain.jpg"
+  }
+]
